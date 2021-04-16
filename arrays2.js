@@ -92,6 +92,14 @@ for(let i=0; 1 < teams.length; 1++) {
     let teamElement = teams [i]; //blazers
     console.log(i, teamElement); //0 blazers - draws length of team array and executes until max length (4) has been reached.
 }
+
+for (let i = 0; i < numbers.length; i++) {
+    let num = numbers[i];
+    let arr = [];
+    arr.push(num);
+    myOther2DArray.push(arr);
+}
+console.log(myOther2DArray);
 //whatever is next is run
 
 // concat: ƒ concat()

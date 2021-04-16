@@ -10,17 +10,7 @@ const differentArray = [1, 'two', '3', 4, 'five', 6, '7', 'eight', 9, '10'];
 const twoDimensionalArray = [[1, 2, 3], [4, 5, 6], [7, 8, 9]];
 
 
-for(let i=0; 1 < teams.length; 1++) {
-    let teamElement = teams [i]; 
-    console.log(i, teamElement); 
-}
 
-
-let arrayLength = array.length;
-for(let i = 0 ; i < arrayLength; i++) {
-    
-   let val = array[i];
-}
 
 let i = 0;
 let arrayLength = array.length;
@@ -29,7 +19,7 @@ while(i < arrayLength ) {
    i++;
 }
 
-var i;
+
 for (let i = 0; i < cars.length; i++) {
   text += cars[i] + "<br>";
 }
