@@ -40,6 +40,7 @@ function checkEmail(emailProvider) {
         console.log ("I have no idea what I'm doing");
         return;
     }
+
     // write code and test
 }
 function sendEmail(message) {
